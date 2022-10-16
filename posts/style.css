@@ -1,0 +1,283 @@
+.content__ders {
+  margin-top: 14px;
+  display: block;
+  text-align: center;
+  margin-bottom: 74px;
+  margin-left: 23px;
+}
+
+.content__introduce-text--1 {
+  display: block;
+  margin-bottom: 29px;
+}
+
+.content__introduce-text--2 span {
+  font-size: 18px;
+  margin-left: 6px;
+  position: relative;
+  letter-spacing: 0.3px;
+  margin-right: 5px;
+  top: 2px;
+}
+
+.content__introduce-text--3 span {
+  letter-spacing: 0.3px;
+}
+
+.content__list {
+  margin-top: 49px;
+  margin-left: 181px;
+}
+.content__list li {
+  margin-top: 15px;
+  letter-spacing: 0.9px;
+}
+
+.content__imgmegger {
+  width: 101%;
+  padding-left: 26px;
+  padding-right: 16px;
+}
+
+.content__nav span {
+  padding-right: 9.6px;
+}
+
+.content__rowpost {
+  display: flex;
+  margin-bottom: 53px;
+}
+
+.content__rowpost-img {
+  display: inline-block;
+  width: 100%;
+}
+
+.container-clearfix {
+  margin-left: 30px;
+  margin-right: 30px;
+}
+
+.content__heading {
+  -webkit-line-clamp: 2;
+  font-size: 20px;
+}
+
+.content__read {
+  margin-top: 41px;
+  margin-bottom: 75px;
+}
+
+.content__post-head1 {
+  font-size: 25px;
+  margin-top: 65px;
+  display: block;
+  margin-left: 125px;
+  letter-spacing: -1.1px;
+}
+
+.content__introduce {
+  margin-top: 37px;
+  font-size: 18px;
+  margin-left: 127px;
+}
+
+.content__introduce-text--4 {
+  display: block;
+  margin-top: 30px;
+  margin-bottom: 71px;
+}
+
+.content__introduce-text--5 {
+  margin-bottom: 27px;
+  display: block;
+  line-height: 27px;
+}
+
+.content__note {
+  display: flex;
+  margin-top: 51px;
+  border-left: 2px solid #FF6F61;
+  align-items: center;
+  height: 130px;
+  margin-left: 165px;
+  padding-left: 30px;
+  font-size: 20px;
+}
+.content__note span {
+  display: block;
+  line-height: 31px;
+}
+
+.content__imgpost1, content__imgpost2 {
+  width: 569px;
+  margin-left: 26px;
+  margin-right: 32px;
+}
+
+.content__text {
+  margin-top: 47px;
+  margin-left: 127px;
+  font-size: 18px;
+}
+
+.content__organization {
+  margin-top: 67px;
+  margin-left: 333px;
+}
+
+.content__contact {
+  margin-top: 30px;
+  display: flex;
+  justify-content: center;
+  margin-left: 37px;
+  padding-bottom: 31px;
+}
+
+.content__communication {
+  width: 136px;
+  height: 40px;
+  font-size: 14px;
+}
+
+.content__business {
+  width: 96px;
+  height: 40px;
+  margin-left: 4px;
+  margin-right: 3px;
+  font-size: 14px;
+}
+
+.content__fashion {
+  width: 88px;
+  height: 40px;
+  font-size: 14px;
+}
+
+.content__marketing {
+  width: 102px;
+  height: 40px;
+  margin-left: 3px;
+  margin-right: 3px;
+  font-size: 14px;
+}
+
+.content__teamwork {
+  width: 103px;
+  height: 40px;
+  font-size: 14px;
+}
+
+.content__contact-items {
+  display: flex;
+  flex-wrap: nowrap;
+  align-items: center;
+  min-width: 220px;
+  height: 54px;
+  margin-right: 14px;
+  padding-right: 38px;
+  padding-top: 3px;
+  position: relative;
+}
+.content__contact-items p {
+  font-size: 16px;
+  position: absolute;
+  font-weight: 500;
+}
+
+.content__contact-items--facebook {
+  background-color: #475A96;
+}
+.content__contact-items--facebook span {
+  margin-left: 27px;
+}
+.content__contact-items--facebook p {
+  top: 13px;
+  right: 29px;
+}
+
+.content__contact-items--switch {
+  background: #49B2E8;
+}
+.content__contact-items--switch span {
+  margin-left: 34px;
+  margin-top: 1px;
+}
+.content__contact-items--switch p {
+  top: 13px;
+  right: 35px;
+}
+
+.content__contact-items--pinterest {
+  background: #D74047;
+}
+.content__contact-items--pinterest span {
+  margin-left: 30px;
+}
+.content__contact-items--pinterest p {
+  top: 13px;
+  right: 29px;
+}
+
+.content__contact-items--linked {
+  background: #0D76B4;
+}
+.content__contact-items--linked span {
+  margin-left: 30px;
+}
+.content__contact-items--linked p {
+  top: 13px;
+  right: 29px;
+}
+
+.content__ourblog span {
+  font-size: 46px;
+  font-weight: 500;
+  line-height: 38px;
+  margin-left: 4px;
+}
+
+.content__post-head2 {
+  font-size: 23px;
+  margin-left: 124px;
+}
+
+.content__introduce-text---6 span {
+  margin-right: 1px;
+  letter-spacing: 0.3px;
+}
+
+.content__ourblog--bottom span {
+  font-size: 30px;
+  margin-left: 4px;
+}
+
+.content__row-post {
+  margin-left: 15px;
+  margin-right: 16px;
+  display: flex;
+  flex-wrap: nowrap;
+}
+.content__row-post .content__items {
+  display: inline-block;
+}
+
+.content__items--1 {
+  width: 34.5%;
+  padding-left: 11px;
+  padding-right: 16px;
+}
+
+.content__items--2 {
+  width: 33.3333%;
+  padding-left: 11px;
+  padding-right: 12px;
+}
+
+.content__items--3 {
+  width: 33.333%;
+  padding-left: 11px;
+  padding-right: 12px;
+}
+
+/*# sourceMappingURL=style.css.map */
